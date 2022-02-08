@@ -1,7 +1,8 @@
-package com.edricaazaza.jetpackapp
+package com.edricaazaza.jetpackapp.resentation
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.edricaazaza.jetpackapp.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
