@@ -1,3 +1,22 @@
 <resources>
     <string name="app_name">JetpackApp</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome_screen_title">Состав числа</string>
+    <string name="welcome_screen_game_rules">Правила игры: \nПеред вами 2 часла, и вам нужно выбрать третее так, чтобы при сложении получилась сумма самого верхнего</string>
+    <string name="welcome_screen_button_text">Понятно</string>
+    <string name="home_title_text">Выберите уровень</string>
+
+    <string name="level_test">Тест</string>
+    <string name="level_easy">Легко</string>
+    <string name="level_normal">Нормально</string>
+    <string name="level_hard">Сложно</string>
+    <string name="game_time_default_text">00:59</string>
+    <string name="sum_default_number">5</string>
+    <string name="question_mark">\?</string>
+    <string name="progress_answers">Правильных ответов %s (минимум %s)</string>
+    <string name="right_answers_count">Необходимое количество правильных ответов: %s</string>
+    <string name="answers_score">Ваш счет: %s</string>
+    <string name="percent_of_right_answers">Ваш процент правильных ответов: %s</string>
+    <string name="try_again_btn_text">Попробовать снова</string>
+    <string name="cd_image_result">win or fail</string>
 </resources>
